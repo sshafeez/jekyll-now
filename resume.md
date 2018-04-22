@@ -12,3 +12,4 @@ Have a look at my resume [here](/assets/ShariqHafeez_Resume.pdf).
     </embed>
 </object>
 
+<img src="https://sshafeez.github.io/assets/ShariqHafeez_Resume.pdf" alt="some text"  width="4200" height="4200">
