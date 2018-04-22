@@ -16,7 +16,6 @@ A collection of various things I've made over the years.
 
 ![alt text](/assets/art/street.jpg)
 *1st @ MIST 2014 Graphic Design*  
-
 ![alt text](/assets/art/fence.jpg)
 ![alt text](/assets/art/orwell.jpg)  
 
