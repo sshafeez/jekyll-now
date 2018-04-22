@@ -5,6 +5,4 @@ permalink: /resume/
 ---
 
 Have a look at my resume [here](/assets/ShariqHafeez_Resume.pdf).
-<embed src="https://sshafeez.github.io/assets/ShariqHafeez_Resume.pdf">
-<embed src="https://sshafeez.github.io/assets/ShariqHafeez_Resume.pdf"/>
 
