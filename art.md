@@ -17,12 +17,15 @@ A collection of various things I've made over the years.
 
 ![alt text](/assets/art/fence.jpg)
 ![alt text](/assets/art/orwell.jpg)  
-![alt text](/assets/art/tank.jpg)  
+
+![alt text](/assets/art/tank.jpg)
+
 
 ![alt text](/assets/art/tree.jpg)
 *MCWS Youth Camp Flyer Art*  
 
-![alt text](/assets/art/war.jpg)  
+![alt text](/assets/art/war.jpg) 
+
 
 ![alt text](/assets/art/wolverine.jpg)
 *Victors 2020 Art Submission Winner*  
