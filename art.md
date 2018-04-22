@@ -8,7 +8,7 @@ A collection of various things I've made over the years.
 ### Personal Work
 ![alt text](/assets/art/turtle.jpg)
 *3rd @ MIST 2016 Graphic Design*
-<br><br>
+<br><br/>
 ![alt text](/assets/art/mirror.jpg)
 *1st @ MIST 2015 Graphic Design*
 
