@@ -16,7 +16,7 @@ The algorithm operating on the data from the camera feed is quite simple and is 
 
 ![alt text](/assets/projects/algorithm.JPG)
 
-In our demos we chose to have red correspond to slow, green to fast, and blue to medium speeds.
+In our demos we chose to have red correspond to slow, green to fast, and blue to medium speeds. We also configured it to stop if it believes it has reached the end of the track or has been derailed.
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RQ4VBuRE170?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
