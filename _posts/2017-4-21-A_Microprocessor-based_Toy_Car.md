@@ -5,11 +5,11 @@ title: Microprocessor-based Toy Car
 
 As part of our first year design class, we designed and built a prototype for a toy car that can follow a custom track drawn by the user.
 Our proposed concept for the final product also featured special effect stickers that add more variety to gameplay.
-![alt text](/assets/projects/concept.jpg)
-![alt text](/assets/projects/prototype.jpg)
+![alt text](/assets/projects/concept.JPG)
+![alt text](/assets/projects/prototype.JPG)
 
 The algorithm operating on the data from the camera feed is quite simple and is implemented in assembly on the Altera FPGA, which is running a very reduced instruction set processor design. This a rough approximation of what the camera frame sees.
-![alt text](/assets/projects/algorithm.jpg)
+![alt text](/assets/projects/algorithm.JPG)
 
 The car is battery powered and uses an Hbridge to drive the brushed DC motors. 
 
