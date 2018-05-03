@@ -10,7 +10,7 @@ I have several IP cameras in my home, but they aren't usually as useful for home
 ![alt text](/assets/projects/camera.jpg)
 
 
-The casing is quite neat and compact despite two boards in use. Luckily both were able to run on the same power supply along with the lights.
+The casing is quite neat and compact despite two boards in use. In hindsight, two power supplies was a tad much, and I would have probably been fine with just the 40W supply and a regulator or two.
 
 
 
