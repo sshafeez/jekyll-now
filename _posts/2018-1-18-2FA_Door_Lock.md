@@ -3,9 +3,7 @@ layout: post
 title: 2-Factor Authentication Lock
 ---
 
-
-
-The casing is quite neat and compact despite two boards in use. In hindsight, two power supplies was a tad much, and I would have probably been fine with just the 40W supply and a regulator or two.
+While working on my earlier Security Camera, I found it a pain to configure any sort of onboard facial recognition. Just compiling OpenCV took 13 hours on a Pi ZeroW. Thus, I decided to explore the AWS infrastructure and their AWS rekognition tool.
 ![alt text](/assets/projects/workflow.jpg)
 
 
