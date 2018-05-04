@@ -5,7 +5,6 @@ title: 2-Factor Authentication Lock
 
 While working on my earlier Security Camera, I found it a pain to configure any sort of onboard facial recognition. Just compiling OpenCV took 13 hours on a Pi ZeroW. Thus, I decided to explore the AWS infrastructure and their AWS rekognition tool. Instead of upgrading my previous camera, I opted to create a smart door lock that requires both RFID authentication and facial recognition to enter.  
 
-Additional Features: 
 Aside from being a lock that requires both an RFID tag and a matching face to enter, I added a few extra features. The system locks you out if you use an RFID tag that isn't yours, and it will register your photo in a collection of blacklisted offenders. Also, the system will keep track of who enters, when they entered, and how many times they've entered, even keeping track of new users it has not seen before.  
 
 *Click for full-size.*
