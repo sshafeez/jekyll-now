@@ -18,11 +18,11 @@ The largest and most enjoyable part of this project was orchestrating and connec
   * Raspberry Pi: Wifi enabled controller for the remanining hardware.
   * RFID Reader: Standard chip reader interfaced with SPI.
   * Camera: A raspi specific camera (I was having responsiveness issues with a usb camera).
-  * Relay & Solenoid Lock: a simple solenoid that needs its own power supply to lock the door.
+  * Relay & Solenoid Lock: A simple solenoid that needs its own power supply to lock the door (I preferred this to an electromagnetic lock as EM locks are active low and would have locked me out if anything broke).
 * Software:
   * AWS Lambda: A serverless way to execute and trigger functions and handlers.
   * AWS S3: Storage bucket for the photos that can be accessed from the lambda handler and raspi.
-  * AWS IOT: Allows communicating with ther raspi with MQTT protocol.
+  * AWS IOT: Allows communication between the raspi and AWS via MQTT protocol.
   * AWS DynamoDB: A NoSQL database that logs all accesses and users.
   * Facial Recognition: Executed using AWS Rekognition.  
 
