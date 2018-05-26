@@ -40,3 +40,8 @@ A collection of various things I've made over the years.
 
 ### Collab Pieces
 ![alt text](/assets/art/shirt.jpg)
+
+
+
+![alt text](/assets/art/camp2018.jpg)
+*MCWS Youth Camp Flyer Art*
