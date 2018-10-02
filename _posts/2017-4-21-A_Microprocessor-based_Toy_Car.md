@@ -7,7 +7,6 @@ title: Microprocessor-based Toy Car
 As part of our first year design class, we designed and built a prototype for a toy car that can follow a custom track drawn by the user.
 Our proposed concept for the final product also featured special effect stickers that add more variety to gameplay.
 ![alt text](/assets/projects/concept.JPG)
-<!--more-->
 
 The car is battery powered and uses an Hbridge to drive the brushed DC motors. 
 ![alt text](/assets/projects/prototype.JPG)
