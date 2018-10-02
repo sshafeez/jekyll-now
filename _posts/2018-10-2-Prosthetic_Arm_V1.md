@@ -7,7 +7,7 @@ Prosthetics are not cheap devices, and they are especially costly for children. 
 
 *Click for full-size.*
 [![alt text](/assets/projects/autodesk.jpg "Click For Full-Size")](https://raw.githubusercontent.com/sshafeez/sshafeez.github.io/master/assets/projects/autodesk.jpg)  
-*Our feature in Autodesk Worldwide Design Showcase*
+*Our feature in Autodesk Worldwide Design Showcase, which you can checkout **[here](https://damassets.autodesk.net/content/dam/autodesk/www/campaigns/design-now/docs/Worldwide-Student-Design-Showcase-2018.pdf)**.* 
 <!--more-->
 
 It was a great experience working with Michigan Nueroprosthetics to develop a 3D-printed myo-Electric Proshetic arm for a below elbow patient, Julian. I lead the electrical subteam which assembles all the electronics in the arm and writes the corresponding software.
