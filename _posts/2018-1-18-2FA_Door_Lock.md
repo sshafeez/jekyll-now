@@ -10,6 +10,7 @@ Aside from being a lock that requires both an RFID tag and a matching face to en
 *Click for full-size.*
 [![alt text](/assets/projects/workflow.jpg "Click For Full-Size")](https://raw.githubusercontent.com/sshafeez/sshafeez.github.io/master/assets/projects/workflow.jpg)  
 
+<!--more-->
 
 The largest and most enjoyable part of this project was orchestrating and connecting all the different components. This graph gives a clean view of how the system is composed of the following components:  
 
