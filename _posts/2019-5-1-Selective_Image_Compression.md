@@ -21,5 +21,8 @@ The algorithm minimizes the distortion by building up a subspace for each vector
 *Click for full-size.*
 [![alt text](/assets/projects/CompressedM.png "Click For Full-Size")](https://raw.githubusercontent.com/sshafeez/sshafeez.github.io/master/assets/projects/CompressedM.png)  
 
-To see our algorithm, you can check out the cache() method in matrix.h, our custom matrix class. 
+To see our algorithm, you can check out the cache() method in matrix.h, our custom matrix class. You can also checkout our poster for this project which compares it to SVD and Strassen algorithms.
 *Code for this project can be found **[here](https://github.com/sshafeez/HeavyMat)**.*
+
+*Click for full-size.*
+[![alt text](/assets/projects/HeavyMatPoster.png "Click For Full-Size")](https://raw.githubusercontent.com/sshafeez/sshafeez.github.io/master/assets/projects/HeavyMatPoster.png)  
