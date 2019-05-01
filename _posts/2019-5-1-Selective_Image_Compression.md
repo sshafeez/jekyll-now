@@ -9,13 +9,13 @@ It's very interesting to see how much matrix multiplication has been optimized u
 
 <!--more-->
 
-Our attempts to represent an n-dimension row or column vector in a matrix with a projection onto a subspace of less than n dimensions. The fewer dimensions, the faster the matrix multiplication but also the more the distortion. Here a 3D vector is being projected onto a  2D subspace M. The algorithm tries to pick a better subspace that would be closer to the original vector.
+Our algorithm attempts to represent an n-dimension row or column vector in a matrix with a projection onto a subspace of less than n dimensions. The fewer dimensions, the faster the matrix multiplication but also the more the distortion. Here a 3D vector is being projected onto a  2D subspace M. The algorithm tries to pick a better subspace that would be closer to the original vector.
 
 ![alt text](/assets/projects/projectionOntoPlane.png)
 
 
 
-The algorithm minimizes the distortion by building up a subspace for each vector in a way that minimizes error. The result of this is that parts of the image are untouched, while others are compressed. Compared to a known method like SVD compression, you can see that the way the distortion is distributed is more discrete.
+The algorithm minimizes the distortion by building up a subspace for each vector in a way that minimizes error. The result of this is that parts of the image are untouched, while others are compressed. Compared to a known method like SVD compression, you can see that the way the spread of distortion is more discrete.
 
 ![alt text](/assets/projects/CompressedM.png) 
 
